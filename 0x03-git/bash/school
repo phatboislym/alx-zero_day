@@ -1,3 +1,6 @@
 #!/bin/bash
+echo "The school is open"
+cat <<EOF> school
+#!/bin/bash
 
-echo "School"
+echo "The school is open!"
